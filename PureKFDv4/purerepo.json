@@ -19,8 +19,8 @@
             "version": "1.0",
             "icon": "icons/RepoIcon.png",
             "banner":"icons/VTBanner.png",
-            "path": "pkgs/",
-            "screenshots":["uwu.lrdsnow.colors.purekfd"]
+            "path": "pkgs/uwu.lrdsnow.colors.purekfd",
+            "screenshots":[""]
         },
     ]
 }
