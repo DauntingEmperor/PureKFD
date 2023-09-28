@@ -1,0 +1,25 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "🔥KFDBox🔥",
+    "description": "Tweaks to make your phone look amazing!",
+    "icon": "icons/RepoIcon.png",
+    "featured": [
+        {
+          "name": "Version Troller",
+          "bundleid": "com.xxdauntingxx.versiontroller",
+          "banner": "Icons/VTBanner.png"
+        },
+    "packages": [
+        {
+            "name": "Version Troller",
+            "bundleid": "com.xxdauntingxx.versiontroller",
+            "author": "XxDauntingxX",
+            "description": "Spoof your internal iOS version to iOS 17!",
+            "version": "1.0",
+            "icon": "icons/RepoIcon.png",
+            "banner":"icons/VTBanner.png",
+            "path": "pkgs/",
+            "screenshots":["uwu.lrdsnow.colors.purekfd"]
+        },
+}
