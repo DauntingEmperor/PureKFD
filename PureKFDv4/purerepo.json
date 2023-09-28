@@ -21,7 +21,7 @@
             "icon": "icons/RepoIcon.png",
             "banner":"icons/VTBanner.png",
             "path": "pkgs/uwu.lrdsnow.colors.purekfd",
-            "screenshots":[""]
+            "screenshots":["icons/VTBanner.png"]
         },
     ]
 }
