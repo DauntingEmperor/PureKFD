@@ -1,7 +1,7 @@
 {
     "spec":"1.0",
     "repotype":"purekfdextended",
-    "name": "🔥KFDBox🔥",
+    "name": "KFDBox",
     "description": "Tweaks to make your phone look amazing!",
     "icon": "icons/RepoIcon.png",
     "featured": [
@@ -10,6 +10,7 @@
           "bundleid": "com.xxdauntingxx.versiontroller",
           "banner": "Icons/VTBanner.png"
         },
+    ]
     "packages": [
         {
             "name": "Version Troller",
